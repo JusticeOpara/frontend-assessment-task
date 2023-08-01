@@ -4,6 +4,7 @@ import ChevronDown from "../assets/fi_chevron-down.svg"
 
 
 export default function BarChart() {
+    
     return (
         <div className=" rounded-xl h-[369px] w-full bg-white flex py-[15px] px-[20px] flex-col justify-start gap-[10px] self-stretch ">
             <div className='bg-white flex flex-col items-start gap-[36px] w-full h-[339px]'>

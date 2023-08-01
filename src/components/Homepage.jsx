@@ -2,7 +2,6 @@ import React from 'react'
 // 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
 import Notification from "../assets/Notification.svg"
 import Profile from "../assets/profile.png"
-import Contnet from "../assets/contnet.svg"
 import ChevronDown from "../assets/fi_chevron-down.svg"
 import MainContent from './MainContent'
 
