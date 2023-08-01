@@ -7,7 +7,7 @@ import Circular from "../assets/Circular.svg"
 import Folder from "../assets/Folder.svg"
 import Cart from "../assets/shopping-cart.svg"
 import Phone from "../assets/Phone.svg"
-import BarChart from './Barchart'
+import BarChart from './BarChart'
 import Iphone from "../assets/Rectangle.png"
 
 export default function MainContent() {
