@@ -3,7 +3,8 @@ import Category from "../assets/Category.svg"
 import Bag from "../assets/Bag.svg"
 import Chat from "../assets/Chat.svg"
 import Folder from "../assets/Folder.svg"
-import Settings from "../assets/setting.svg"
+import settingIcon from '../assets/Setting.svg';
+
 import User from "../assets/User.svg"
 import Frame from "../assets/Frame.svg"
 
@@ -69,7 +70,7 @@ export default function Sidebar() {
                         digit={<div className="flex rounded-[500px] bg-[#FFCC91] w-6 items-center justify-center">8</div>}
                     />
                     <List
-                        image={<img src={Settings} className='flex w-[24px] h-[24px] py-[2.278px] px-[2.25px] justify-center items-center' />}
+                        image={<img src={settingIcon} className='flex w-[24px] h-[24px] py-[2.278px] px-[2.25px] justify-center items-center' />}
                         text="Settings"
                     />
 

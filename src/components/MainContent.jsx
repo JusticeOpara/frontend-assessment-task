@@ -19,7 +19,7 @@ export default function MainContent() {
                     <div className='flex flex-col justify-between items-start flex-1 self-stretch'>
                         <div className='flex justify-between items-center self-stretch'>
                             <img src={Icon} alt="graph" />
-                            <div className='flex w-[82px] [16px]items-center gap-2 bg-slate-500 text-[#BEC0CA]'>
+                            <div className='flex w-[82px] [16px]items-center gap-2 text-[#BEC0CA]'>
 
                                 <p className='text-xs font-normal '>This week </p>
                                 <img src={ChevronDown} className="w-4 " alt='arrow-down' />
@@ -60,7 +60,7 @@ export default function MainContent() {
                                 <img src={User} alt="graph" />
                             </div>
 
-                            <div className='flex w-[82px] [16px]items-center gap-2 bg-slate-500 text-[#BEC0CA]'>
+                            <div className='flex w-[82px] [16px]items-center gap-2  text-[#BEC0CA]'>
 
                                 <p className='text-xs font-normal '>This week </p>
                                 <img src={ChevronDown} className="w-4 " alt='arrow-down' />
@@ -109,7 +109,7 @@ export default function MainContent() {
                             </div>
 
 
-                            <div className='flex w-[82px] [16px]items-center gap-2 bg-slate-500 text-[#BEC0CA]'>
+                            <div className='flex w-[82px] [16px]items-center gap-2  text-[#BEC0CA]'>
 
                                 <p className='text-xs font-normal '>This week </p>
                                 <img src={ChevronDown} className="w-4 " alt='arrow-down' />
@@ -155,7 +155,7 @@ export default function MainContent() {
 
                                         <p className='font-medium text-base'>Marketing</p>
 
-                                        <div className='flex w-[82px] [16px]items-center gap-2 bg-slate-500 text-[#BEC0CA]'>
+                                        <div className='flex w-[82px] [16px]items-center gap-2  text-[#BEC0CA]'>
 
                                             <p className='text-xs font-normal '>This week </p>
                                             <img src={ChevronDown} className="w-4 " alt='arrow-down' />
@@ -206,7 +206,7 @@ export default function MainContent() {
                                         <img src={Cart} className='w-5' alt="folder" />
                                     </div>
 
-                                    <div className='flex w-[82px] [16px] items-center gap-2 bg-slate-500 text-[#BEC0CA]'>
+                                    <div className='flex w-[82px] [16px] items-center gap-2  text-[#BEC0CA]'>
 
                                         <p className='text-xs font-normal '>This week </p>
                                         <img src={ChevronDown} className="w-4 " alt='arrow-down' />
